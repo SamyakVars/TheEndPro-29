@@ -7,7 +7,7 @@ var charCollided;
 
 var gameState = 1;
 
-var health = 1;
+var health = 5;
 
 var rock1, rock2, rock3, rock4;
 
